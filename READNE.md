@@ -53,7 +53,7 @@ Week-4LearnPytorch/
 │   └── Baseline_Model_And_Augmentation.ipynb
 │
 ├── assets/
-│   └── (images, models, dataset samples,trained models)
+│   └── (images, models, dataset, samples,trained models)
 │
 └── README.md
 
