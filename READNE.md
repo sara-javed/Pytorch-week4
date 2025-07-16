@@ -25,7 +25,37 @@ This module is focused on building a clear understanding of deep learning fundam
 
 ## 🧱 Repository Structure
 
-Pytorch-week4/ │ ├── Chapter_0_Tensor_Basics/ │   ├── Creating_Tensors.ipynb │   ├── Tensor_Manipulation.ipynb │   └── Matrix_Multiplication.ipynb │ ├── Chapter_1_Workflow_Modeling/ │   ├── Linear_Model.ipynb │   ├── Training_and_Saving_Model.ipynb │   └── Complete_Pipeline.ipynb │ ├── Chapter_2_Classification/ │   ├── Neural_Network_Classifier.ipynb │   ├── Loss_Functions_and_Activation.ipynb │   └── Multiclass_Example.ipynb │ ├── Chapter_3_CNN_ComputerVision/ │   ├── TorchVision_Overview.ipynb │   ├── CNN_Training.ipynb │   └── Confusion_Matrix_Results.ipynb │ ├── Chapter_4_CustomDataset/ │   ├── Load_Custom_Data.ipynb │   ├── Build_Dataset_Class.ipynb │   └── Model_with_Augmentation.ipynb │ ├── assets/ │   └── (images, samples, trained models) │ └── README.md
+Week-4LearnPytorch/
+│
+├── Chapter_0_PyTorch_Fundamentals/
+│   ├── Creating_Tensors.ipynb
+│   ├── Manipulating_Tensors.ipynb
+│   └── Matrix_Multiplication.ipynb
+│
+├── Chapter_1_PyTorch_Workflow/
+│   ├── Linear_Regression_Model.ipynb
+│   ├── Model_Training_And_Saving.ipynb
+│   └── Complete_pipeline.ipynb
+│
+├── Chapter_2_Neural_Network_Classification/
+│   ├── Classification_Model.ipynb
+│   ├── Sequential_API_and_Loss.ipynb
+│   └── Multiclass_Classification.ipynb
+│
+├── Chapter_3_CNN_Computer_Vision/
+│   ├── TorchVision_And_CNN.ipynb
+│   ├── CNN_Model_Training.ipynb
+│   └── Confusion_Matrix_Evaluation.ipynb
+│
+├── Chapter_4_Custom_Datasets/
+│   ├── Loading_Custom_Images.ipynb
+│   ├── Custom_Dataset_Class.ipynb
+│   └── Baseline_Model_And_Augmentation.ipynb
+│
+├── assets/
+│   └── (images, models, dataset samples,trained models)
+│
+└── README.md
 
 
 ## 📚 Concepts Covered
