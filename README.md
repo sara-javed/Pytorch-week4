@@ -1,24 +1,33 @@
-📘 Week4-PyTorch-Learning
+# 📘 Week4-PyTorch-Learning
 
-Welcome to Week-4 PyTorch Learning — a well-structured and practical repository created to master core Deep Learning concepts using PyTorch, including neural networks, computer vision, and custom datasets.
+Welcome to **Week-4 PyTorch Learning** — a well-structured and practical repository created to master core Deep Learning concepts using PyTorch, including neural networks, computer vision, and custom datasets.
 
 This repository includes organized notebooks and concise notes from each major topic, following a complete hands-on coding approach.
 
-🧠 Course Goals
+---
+
+## 🧠 Course Goals
+
 This module is focused on building a clear understanding of deep learning fundamentals using PyTorch. Each section is designed to gradually take learners from beginner-level concepts to real-world applications.
 
-✅ What You Will Learn
-PyTorch basics: tensors, data types, and operations
-Implementing and training neural networks
-Linear regression and nonlinear models
-Classification and multiclass prediction techniques
-Using CNNs and TorchVision for computer vision
-Creating and loading custom image datasets
-Model performance evaluation and improvement
+---
 
-🧱 Repository Structure
+## ✅ What You Will Learn
 
-Week-4LearnPytorch/
+- PyTorch basics: tensors, data types, and operations  
+- Implementing and training neural networks  
+- Linear regression and nonlinear models  
+- Classification and multiclass prediction techniques  
+- Using CNNs and TorchVision for computer vision  
+- Creating and loading custom image datasets  
+- Model performance evaluation and improvement  
+
+---
+
+## 🧱 Repository Structure
+
+```
+📘 Week4-PyTorch-Learning/
 │
 ├── Chapter_0_PyTorch_Fundamentals/
 │   ├── Creating_Tensors.ipynb
@@ -49,6 +58,9 @@ Week-4LearnPytorch/
 │   └── (images, models, dataset samples)
 │
 └── README.md
+```
+
+---
 
 ## 📚 Concepts Covered
 
@@ -74,50 +86,65 @@ Week-4LearnPytorch/
 
 ### 🔹 Chapter 4 – Custom Dataset
 - Collect and load your own image data
-- Write Dataset class using torch.utils.data
+- Write Dataset class using `torch.utils.data`
 - Use augmentation to improve performance
 
-
+---
 
 ## 🧰 Tools and Libraries Used
 
-- PyTorch
-- torchvision
-- matplotlib
-- numpy
-- scikit-learn
-- torchinfo
-- Google Colab / Jupyter Notebooks
+- PyTorch  
+- torchvision  
+- matplotlib  
+- numpy  
+- scikit-learn  
+- torchinfo  
+- Google Colab / Jupyter Notebooks  
 
-
+---
 
 ## ▶ How to Use
 
-1. *Clone this repo:*
+1. **Clone this repo:**
+   ```bash
+   git clone https://github.com/your-sara-javed/Pytorch-week4.git
+   cd Pytorch-week4
+   
+## ⚙️ Installation
+
+To get started, install the required packages using the following command:
+
 ```bash
-git clone https://github.com/your-username/Pytorch-week4.git
-cd Pytorch-week4
-
-2. Install the required packages:
-
 pip install torch torchvision matplotlib numpy scikit-learn torchinfo
+```
 
-3. Run any notebook: Open .ipynb files in Colab or Jupyter for hands-on learning.
+---
+
+## 🚀 How to Use
+
+1. **Run Any Notebook**  
+   Open any `.ipynb` file using [Google Colab](https://colab.research.google.com/) or Jupyter Notebook for interactive hands-on learning.
+
+---
+
+## 🎯 Suggested Usage
+
+- 📺 **Watch related tutorials on YouTube** to strengthen your concepts.
+- 🧠 **Practice coding** with each notebook to build intuition.
+- 🧪 **Experiment with datasets and tweak models** to observe changes.
+- 🏗️ **Use this repo as a foundation** for your future deep learning projects.
+
+---
+
+## 🙋‍♀ Maintained By
+
+Made with 💡 and 📚 by **Sarah Javed** – *BS Data Science Student*
+
+Feel free to:
+
+- 📬 Ask questions via [Issues](https://github.com/your-sara-javed/your-repo/issues)
+- 🔧 Improve this project via **Pull Requests**
+
+---
 
 
-
-🎯 Suggested Usage
-
-Watch related tutorials on YouTube
-
-Practice coding with each notebook
-
-Experiment with dataset and model tweaks
-
-Use this as a foundation for your future deep learning projects
-
-
-🙋‍♀ Maintained By
-
-Made with 💡 and 📚 by Sarah Javed – BS Data Science Student
-Feel free to contribute, ask questions, or improve this project through issues or pull requests.
